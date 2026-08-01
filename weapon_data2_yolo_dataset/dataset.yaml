@@ -1,0 +1,15 @@
+names:
+- Automatic Rifle
+- Bazooka
+- Grenade Launcher
+- Handgun
+- Knife
+- Shotgun
+- SMG
+- Sniper
+- Sword
+nc: 9
+path: /workspace/weapon_data2_yolo_dataset
+test: images/test
+train: images/train
+val: images/val

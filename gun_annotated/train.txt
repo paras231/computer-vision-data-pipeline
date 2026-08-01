@@ -1,0 +1,15 @@
+data/obj_train_data/gun1.jpg
+data/obj_train_data/gun10.webp
+data/obj_train_data/gun11.webp
+data/obj_train_data/gun12.webp
+data/obj_train_data/gun13.webp
+data/obj_train_data/gun14.webp
+data/obj_train_data/gun15.webp
+data/obj_train_data/gun2.webp
+data/obj_train_data/gun3.webp
+data/obj_train_data/gun4.webp
+data/obj_train_data/gun5.webp
+data/obj_train_data/gun6.webp
+data/obj_train_data/gun7.webp
+data/obj_train_data/gun8.webp
+data/obj_train_data/gun9.webp

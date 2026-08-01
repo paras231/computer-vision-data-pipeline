@@ -1,0 +1,16 @@
+opencv-python-headless
+numpy
+pandas
+pillow
+matplotlib
+scikit-image
+scikit-learn
+imageio
+albumentations
+tqdm
+scipy
+h5py
+pyyaml
+requests
+seaborn
+ultralytics

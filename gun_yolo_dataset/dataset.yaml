@@ -1,0 +1,7 @@
+names:
+- gun
+nc: 1
+path: /workspace/gun_yolo_dataset
+test: images/test
+train: images/train
+val: images/val
