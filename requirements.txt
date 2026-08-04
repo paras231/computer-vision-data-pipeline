@@ -14,3 +14,7 @@ pyyaml
 requests
 seaborn
 ultralytics
+onnxruntime
+fastapi
+uvicorn[standard]
+python-multipart
